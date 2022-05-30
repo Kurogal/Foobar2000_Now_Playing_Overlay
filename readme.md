@@ -41,7 +41,7 @@ Once done, copy the following into the **Formatting string**:
 
 It should look like in this photo:
 
-![Example photo of the settings.](/Now Playing Simple Configuration.png)
+![Example photo of the settings.](/NPS_Config_Example.png)
 
 Configuration
 ---------------------------------------------------------------------
@@ -89,8 +89,6 @@ The folder's name doesn't actually matter, but ideally for the sake of organizat
 
 Also don't leave a stray foo_np_simple.dll in the Now Playing folder in the off chance you have a really messy setup for whatever reason.
 It'll prioritize using the foo_np_simple.dll connected to nothing in that folder over using the one in Foobar2000.
-
----------------------------------------------------------------------
 
 To add in OBS:
 --------------
