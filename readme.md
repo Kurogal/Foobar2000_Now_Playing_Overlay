@@ -41,7 +41,7 @@ Once done, copy the following into the **Formatting string**:
 
 It should look like in this photo:
 
-![Example photo of the settings.](/fb2kconfig.png)
+![Example photo of the settings.](/Now Playing Simple Configuration.png)
 
 Configuration
 ---------------------------------------------------------------------
