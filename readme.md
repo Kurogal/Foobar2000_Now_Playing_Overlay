@@ -1,3 +1,5 @@
+![Preview of the overlay using Dohna Dohna no Uta as an example song.](https://user-images.githubusercontent.com/20557147/171977472-4c82e5d6-abc9-41ce-8f62-871fab8f3e53.png)
+
 Now playing overlays for Foobar2000.
 ---------------------------------------------------------------------
 
@@ -69,6 +71,14 @@ The component is not capturing the album art Foobar2000 extracts from the music 
 For example:
 
 Say I want to play a song from the Needy Girl Overdose OST on stream.
+
+<details>
+  <summary>(Example Image Set without folder.jpg - **Click To Expand**)</summary>
+  
+![Folder with no folder.jpg](https://i.imgur.com/F5V8LRH.png)
+![Embedded album art shown in Foobar2000](https://i.imgur.com/kgMhwil.png)
+</details>
+
 It has this album art embedded into the metadata which shows up fine in Foobar2000, but without the folder.jpg, it won't show in the overlay.
 
 It still requires a folder.jpg like this, which it used over the embedded art in this case in Foobar2000 itself as well.
@@ -79,12 +89,10 @@ It still requires a folder.jpg like this, which it used over the embedded art in
 The folder's name doesn't actually matter, but ideally for the sake of organization outside it should be something reasonable like the album name.
 
 <details>
-  <summary>(Click to expand for example images.)</summary>
+  <summary>(Example Image Set without folder.jpg - **Click To Expand**)</summary>
   
-  1. ![Folder with no folder.jpg](https://i.imgur.com/F5V8LRH.png)
-  2. ![Embedded album art shown in Foobar2000](https://i.imgur.com/kgMhwil.png)
-  3. ![Folder with folder.jpg containing different album art](https://i.imgur.com/5qWWAQe.png)
-  4. ![folder.jpg being used in Foobar2000, taking priority over the embedded almum art](https://i.imgur.com/gSjZ37Z.png)
+![Folder with folder.jpg containing different album art](https://i.imgur.com/5qWWAQe.png)
+![folder.jpg being used in Foobar2000, taking priority over the embedded almum art](https://i.imgur.com/gSjZ37Z.png)
 </details>
 
 Also don't leave a stray foo_np_simple.dll in the Now Playing folder in the off chance you have a really messy setup for whatever reason.
